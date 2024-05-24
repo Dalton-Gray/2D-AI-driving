@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "driving-sim"
+  site-url: "https://Dalton.github.io/driving-sim"
+  description: "driving sim"
+  repo-branch: main
+  repo-url: "https://github.com/Dalton/driving-sim"
